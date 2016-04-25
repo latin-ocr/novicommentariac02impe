@@ -1,0 +1,40 @@
+AD HANG DOCTRINAM SPECTANTIBVS. -103
+
+non refertur numerus ipse ‚ qui repugnat ideae partis:
+hinc pro efficienda summa partium aliquotarum debet
+tantum numerus ipse subtrahi a stimma diuisorum 3 veluti,
+fi ab indicata summa diuisorum 42 subtrahatur numerus
+ipse 20 ‚ remanebunt 22 pro summa partium aliquota·
+rum numeri 203 hinc fi obtinuerimus regulam pro ex-
+primenda generaliter summa diuisorum alicuius numeri:
+pronum erit exinde concludere , quaenam sit summa par-
+tium aliquotarum eiusdem illius numeri.
+
+§. 4. In sequentibus itaque ponam semper litteras
+maiusculas A , B , C , etc. exprimere numeros vtcunque
+compositos , integros scil. sed inter ie primos. Eorum
+vero respestiuas summas diuisorum omnium indigitabolitte-
+ris iisdem minusculis a ‚ b, c ‚ etc. Ita e, gr. numeri
+A summa diuisorum erit a3 et summa partium aliquota-
+rum erit a—A. (§.3.) Numeros autem primos designent
+literae P, Q, R, S, T, etc. Atque curn numerus
+primus nullum admittat alium diuisorem , quam vnitatem
+et seipsum: patet, summam diuisorum numeri primi sem-
+per effe numerum illum ipsum auctum vnitate· Igitur
+summae diuisorum pro allegatis numeris primis erunt re-
+spectiue P-i- 1 ‚ Q÷1 , R—}-1 ‚ etc. et summae par-
+tium aliquotarum omnes aequales vnitati, scil. P-{- 1 -
+
+z 1.
+
+§. 5. Sit numerus aliquis compcfitus ex meris primis ‚
+dizoersts, veluti e. gr. 3. 5. 7, aut 105 ‚ vel generaliter
+P QR S: quaeritur ficmma diug'fhrum huius numeri ita com·
+postti. Ex methodo Newtoni , Arithm. vniuersalis pag.
+37 , edit. 1732 ‚ de imcentione diuiserunt , erunt huius nu-
+
+a,
+
+meri compositi diuisores simplices P , Q, R, >3 eorun-
+' dem
+

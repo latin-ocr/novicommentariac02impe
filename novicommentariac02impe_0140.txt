@@ -1,0 +1,43 @@
+104 DE NVMEius AMICABIL. ATQVE ALIIS
+
+dem finguli bini, PQ, PR, PS ‚ QR, QS, RS;
+finguli terni, PQR , PQS ‚ PRS , QRS, et finguli
+quaterni PQRS , vnde sunum diuitbrum omnium habe-
+bitur 1 ÷P÷Q÷R÷S÷PQ÷PR ÷PS÷QR
+÷QS÷RS÷PQR÷PQS÷PRS÷QRS÷PQRS3
+sed haec summa resoluitur in hos factores (P -ξ- 1)(Q-†- 1 )
+(R-f-1)(S—-}-1); itaque munerus compofitns ex primis
+diucrfis PQR S habet filmmam diuisorum (1³4 1 )(Q÷ 1)
+(R-4- 1 )(S-÷- 1 ), et summam partium :ill quomrum (P÷1)
+(Q-4- 1 )(R-}- 1 )(S-÷- 1 )—PQ RS. Simili modo nu-
+meri composui PQ summa diuisorum habebitur (P÷1)
+(Q-4- 1 ) , et summa partium aliquotamm (P —4- 1 )(Q-{-1)
+—PQ Summa diuubrum numeri 105 z 3. 5. 7 crit 4.
+6. 8 z: 192 , ct summa partium aliquot-arum z 192 —
+10 5 Ξ 87.
+
+§. 6. Sit potenticz numeri alicuius primi quaeuIs , ve-
+luti P ”⁸ , quaeritur ficmma diuisorum huius numeri potentia-
+lis. Diuisores hi fimt 1 ‚ P ‚ P² , Ρ3 ‚ Ρ4 etc. vsque ad
+includendum pm '⁷ igitur summa horum diuisorum erit 1 -ξ-
+P-4-P'÷P⁸÷ pp etc. -÷-P⁷⁷²; scd hacc summa constituit
+progreffionem geometricam , cuius primus terminus cst 1 ‚
+
+exponens est P, ct terminus vltimus P⁷⁷¹ ‚ itaque haec “
+
+ 
+
+m-4-1—
+summa crit P P-1—13 consequenter numeri mlis P''¹ sum-
+-b- ..-
+ma diuisorum cst hacc sequens, P—P—L—l-{3 ct summa par-
+Pm÷¹
+
+P-ssTI—Pm. fit cx. gr. 81 z
+
+ 
+
+tium aliquotarum cst
+
+3⁴,
+

@@ -1,0 +1,77 @@
+DE NVMERIS PERFECTIS⁴ 7 s
+
+75557863725914323419136 -· ⁷⁶
+151115727451828646838272 — 77
+302231454903657293676544 - ⁷⁸
+604462909807314587353088 - ⁷9
+
+1208925819614629174706176 -
+
+80
+
+Si inquam haec series mediante diuifione per nume·
+
+’ ros primos Vsque ad quadragesimam et otstauam potesta-
+
+tem examinetur, prouti in subsequenti tabula festum
+
+[εκωΙ-ῥι u
+
+82
+
+128
+256
+512
+1024
+2048
+4096
+
+ 
+
+8192
+16384
+32768
+65536
+
+ 
+
+131072
+262144
+
+ 
+
+Ka
+
+3 Primus
+ζ Primus
+
+s}- div. per 5.
+31 Pssnms
+
+ξ div. per 7.
+127 Primus
+
+255 fflv.pffl 5.
+511 div. per 7.
+1023 fflv.poe 3.
+2047 fflv.pffi·23„
+4095 (Ην. per 5ο
+
+8191 Funus
+
+ 
+
+10083 div. per 3.,
+32767 dhss per 7.
+65535 ffiv.1aer 5.
+131071 Pnnms
+
+ 
+
+202143 div, per 3,
+524287 Primus
+
+ 
+
+524288
+

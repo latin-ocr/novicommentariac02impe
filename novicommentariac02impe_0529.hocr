@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novicommentariac02impe_0529.png"; bbox 0 0 1971 2700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 541 205 1659 260">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 541 205 1659 260">
+     <span class='ocr_line' id='line_1_1' title="bbox 541 205 1659 260; baseline 0.004 -8"><span class='ocrx_word' id='word_1_1' title='bbox 541 215 741 257; x_wconf 69' lang='lat' dir='ltr'><em>Convn</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 765 208 904 260; x_wconf 74' lang='lat' dir='ltr'><em>,lVov</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 918 212 1016 257; x_wconf 73' lang='lat' dir='ltr'><em>Ac.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1035 205 1588 257; x_wconf 63' lang='lat' dir='ltr'><em>Sc.]³eir.772mZlebXT.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1655 231 1659 235; x_wconf 94' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 166 461 1449 2547">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 166 461 1449 2547">
+     <span class='ocr_line' id='line_1_2' title="bbox 166 461 1449 2547; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 166 461 1449 2547; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

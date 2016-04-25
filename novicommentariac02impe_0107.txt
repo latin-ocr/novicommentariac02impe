@@ -1,0 +1,46 @@
+DE NVMERIS· PERFECTIS. :71
+
+ς. 6. Tales vt enitentur scopuli, sollicite attenden-
+dum cst ad methodum numeros inueniendi perfecios qua-
+lis. extat (36. prop. lxv)
+
+1. A2. 134. Cs. D.16. ⁷
+E31. G62. H 124. L 248. F 496.
+
+„ Si ab vnitate quotcunque numeri A , B, C ‚ D,
+
+„ deinceps exponantur in dupla proportione quoad
+
+-„ totus compositus E , fiat primus et totus hic E ‚
+
+„in Vltimum D , multiplicatus , fiiciat aliquem F,
+
+„finitus F ‚ erit perstc‘tus.
+
+ς. 7. His docet Euclides: non omnes numeros im·
+pares, per additionem terminorum potestatis binarii, ad-
+iecta vuitate ‚ conflatos ‚ quales sunt
+
+3. 1—}-2
+
+ιη 7. 1-ι-2-1-4.
+
+’'15. 1-l-2-1—-4-l-8
+
+31. 1-4-2-4-44-84— 16
+
+‘63. 1÷2÷4÷8÷16÷32
+
+127. 1-4-2-÷4-†—8-{-16—†-32-}-64
+'255-1-1-2—l-4-l-8—l-16—l-32-4-64—l—128
+⁸511. 1÷2÷4÷8÷16÷32÷64÷ 128—1-256
+⁶ 1023. 1—1-2—4-4--4-8-4-16-3— 32—4—64-—3-128-1-256—4-312
+⁰ 2047.1÷2-÷—4—}- 8-1-16-4-32-1-64-4—1281-4-256-1-512-1-1024
+
+pro numeris primis habendos, scd potius per diuifionem
+per omues numeros primm, minores numero propolim,
+examinandos effe, antequam constet, primine >sint an
+compositi. Suppeditaruut hunc in finem catalogo& nume-
+
+rorum
+

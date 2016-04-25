@@ -1,0 +1,51 @@
+An ARCVS cchLAREs. ς
+
+Problema 1.
+
+6. Data curuae AM amplitudine ANM vna cum ἧς...
+normalibus AN et MN ‚ inuenire limites intra quos lon-
+gitudo arcus AM contineatur.
+
+SolutiO.
+
+Ponatur curuae amplitudo seu angulus A N sz , et norma·
+les Aszg Mqu3 ipseque arcus AMzs. Dein-
+de ducatur subtensu AM , quae ex triangulo ANM tepe-
+ritur fore :V(pp-†—qq—2pq cos. v). Cum ergo arcus
+AMzs semper s1t maior quam sua subtensa , hinc alte·
+rum limitem minorem iam habemus quo erit:
+s>V<pp÷qq-2pq cos- v)
+
+Ducuntur deinde in punc'tis A et Μ tangentes A T* et MT,
+quarum concursus T intra angulum ANM cadet :eritque
+
+AT: ‘l—Jfiff'et MT: 127q—sss’
+
+Manifestum autem est summam tangentium AT÷MT
+fore arcu AM maiorem ‚ vnde prodit alter limes. maior.
+
+s < (Γῗῖέῖᾧ-[Ᾰ
+
+ 
+
+1
+
+-coflv .
+seu cum fit ΜΛ, :t21ng.{v ent:
+s< (p -4—q) tang. ὲ v
+Erunt ergo limites, intra quos vera arcus A M longitudo
+continetur, sequentes ;
+
+ 
+
+minor . . . . V(pp-†-qq-2pq cofiv)
+maior . . . . (p÷q)tang‚;v.
+
+Q. Ε. Ι.
+
+Coroll. 1.
+
+7. Quia puntstum T intra crura anguli ANM pro-
+dustl cadit, si quidem curua continua curuutum progredi-
+A 3 tur ,
+
